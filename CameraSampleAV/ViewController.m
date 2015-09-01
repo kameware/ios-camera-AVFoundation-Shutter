@@ -2,8 +2,8 @@
 //  ViewController.m
 //  CameraSampleAV
 //
-//  Created by takanari nakamura on 2013/06/07.
-//  Copyright (c) 2013年 takanari nakamura. All rights reserved.
+//  Created by mienharu on 2013/06/07.
+//  Copyright (c) 2013年 mienharu All rights reserved.
 //
 
 #import "ViewController.h"
